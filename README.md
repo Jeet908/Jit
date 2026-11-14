@@ -119,15 +119,28 @@
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 Live Activity & Real-Time Contribution Tracker
 
+<!-- REAL-TIME VISITOR COUNTER -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet908&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=Jeet908&label=RECRUITER%20PROFILE%20VIEWS&color=2563EB&style=for-the-badge&logo=eye&logoColor=white" alt="Live Profile Views" />
 </div>
 
+<br/>
+
+<!-- REAL-TIME 30-DAY COMMIT & ACTIVITY FREQUENCY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet908&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <a href="https://github.com/Jeet908">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeet908&theme=tokyonight&color=2563EB&line=10B981&point=ffffff&area=true&hide_border=true&custom_title=Real-Time%20Contribution%20%26%20Commit%20Frequency%20(Last%2030%20Days)" width="100%" alt="Real-Time Commit Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
+<!-- DYNAMIC REAL-TIME STREAK & SUMMARY CARDS -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet908&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=10B981&currStreakLabel=10B981" height="155" alt="Live Streak Tracker" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeet908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=10B981&count_private=true" height="155" alt="Live Stats Overview" />
 </div>
 
 ---
